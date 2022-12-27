@@ -1,0 +1,16 @@
+50 frames in 6 min
+
+Name: tensorflow
+Version: 2.2.0
+
+Name: Keras
+Version: 2.3.1
+-----------------------------
+OKAY DONE WORKING BELOW:
+-----------------------------
+Name: tensorflow
+Version: 2.0.0
+
+Name: Keras
+Version: 2.3.1
+-----------------------------
